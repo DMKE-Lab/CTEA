@@ -60,7 +60,7 @@ We choose three well-known KGs as our sources: DBpedia(English), DBpedia(French)
 
 |15K dense datasets | English&German| EN_ DE_ 15K_V2
 
-The  datasets can be downloaded from [Baidu Wangpan](https://pan.baidu.com/s/1mYec9tLp9tQpnqx0JsH7xw) (password: 85kq).
+The  datasets can be downloaded from OpenEA.
 
 ## Experiments
 
